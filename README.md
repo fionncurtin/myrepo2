@@ -1,2 +1,2 @@
 # myrepo2
-Second test repository
+This is a line from RStudio
